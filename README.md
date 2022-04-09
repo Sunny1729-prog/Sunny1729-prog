@@ -2,10 +2,6 @@
 
 First time actually using github.
 
-Please view my DSA(Data structures & algorithm) repository.
-
-If you find an error or a more efficient way to implement a particular code,do comment.
-
 - I am currently good in:
   - C/C++ coding
   - OOPS concepts
