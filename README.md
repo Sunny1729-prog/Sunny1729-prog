@@ -4,10 +4,13 @@ First time actually using github.
 
 - I am currently good in:
   - C/C++ coding
+  - Python coding
+  - Data Mining 
   - OOPS concepts
 
 - I have basics covered for:
   - Python
+  - Microsoft Excel
   - Blender
   - Unity engine
   - Computer Networks
@@ -15,11 +18,14 @@ First time actually using github.
   - APIs
 
 - I am currently learning:
-  - DSA
+  - Machine Leaning
+  - Computer Networking
+  - Microsoft Excel
 
 - I am interested in:
+  - Machine Learning
   - NLP(Natural language processing)
-  - 3D modelling and game development
+  - Data Analysis
 
 - How to reach me: 
   - Email id: macson1729@gmail.com
